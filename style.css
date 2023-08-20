@@ -1,0 +1,38 @@
+body{
+    background-color: darkblue;
+    font-family: 'Architects Daughter', cursive;
+}
+.heading{
+    background-color:lemonchiffon;
+    color:rgb(19, 139, 0);
+}
+.heading_p{
+    color:darkslategrey;
+    font-size: 25px;
+    font-family: 'Nanum Brush Script', cursive;
+    font-weight: bold;
+    letter-spacing:2px;
+}
+.main_div button{
+    margin-top:10px;
+    font-family: 'Nanum Brush Script', cursive;
+    font-size:20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.main_div h3,h4{
+color:aliceblue;
+font-weight:bold;
+
+}
+.footer{
+    bottom:0;
+    position:fixed;
+    background-color:forestgreen;
+    color:bisque;
+    width:100%;
+    font-size:20px;
+    text-align: center;
+    line-height:3;
+    text-shadow: 5px 5px 5px red;
+}
